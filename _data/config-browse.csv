@@ -3,4 +3,4 @@ date,Date,,,Date
 creator,Author,,,
 subject,Subject,true,,
 location,,true,,
-item_information,Information,,,Type
+item_information,Information,true,,Type
